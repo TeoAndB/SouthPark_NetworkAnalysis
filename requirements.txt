@@ -1,0 +1,17 @@
+line_profiler==3.3.1
+networkx
+pyvis
+Cython
+fa2
+ForceAtlas2
+fa2
+python-louvain
+networkx
+pandas
+numpy
+fa2
+plotly==5.4.0
+python-louvain
+nltk
+ipynb==0.5.1
+wordcloud==1.8.1
